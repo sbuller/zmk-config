@@ -50,14 +50,14 @@
 		};
 
 
-		media_layer {
-			bindings = <
-	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
-	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
-	&trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans &trans &trans &trans
-	                     &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans
-			>;
-		};
+//		media_layer {
+//			bindings = <
+//	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
+//	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
+//	&trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans &trans &trans &trans
+//	                     &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans
+//			>;
+//		};
 
 		nav_layer {
 			bindings = <
@@ -68,14 +68,14 @@
 			>;
 		};
 
-		mouse_layer {
-			bindings = <
-	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
-	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
-	&trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans &trans &trans &trans
-	                     &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans
-			>;
-		};
+//		mouse_layer {
+//			bindings = <
+//	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
+//	&trans &trans &trans &trans &trans &trans                                &trans &trans &trans &trans &trans &trans
+//	&trans &trans &trans &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans &trans &trans &trans
+//	                     &trans &trans &trans &trans &trans    &trans &trans &trans &trans &trans
+//			>;
+//		};
 
 		sym_layer {
 			bindings = <
